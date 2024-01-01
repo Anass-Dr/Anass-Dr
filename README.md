@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning PHP OOP and MVC (Design Pattern)  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to JS and PHP  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
